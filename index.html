@@ -1,59 +1,152 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>João Pedro - PortfolioHUB</title>
-
-    <style>
-        body {
-            background-color: #111;
-            color: white;
-            font-family: Arial;
-            padding: 40px;
-        }
-
-        h1 {
-            color: #00aaff;
-        }
-
-        a {
-            color: #00ccff;
-        }
-
-        .card {
-            background-color: #1e1e1e;
-            padding: 20px;
-            margin-top: 20px;
-            border-radius: 10px;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <h1>João Pedro</h1>
+    <header class="hero">
+        <div class="hero-content">
 
-    <p>Estudante de TI e desenvolvedor de projetos acadêmicos e pessoais.</p>
+            <h1>João Pedro Machado Figueiredo Menezes</h1>
 
-    <div class="card">
-        <h2>Projetos Acadêmicos</h2>
+            <p>
+                Estudante de Ciência da Computação |
+                Desenvolvimento de Software |
+                Cibersegurança
+            </p>
 
-        <ul>
-            <li>DER Seguradora</li>
-            <li>Sistema Hospitalar</li>
-            <li>Gerenciamento de Hotel</li>
-            <li>Segurança da Informação</li>
-        </ul>
-    </div>
+            <div class="buttons">
 
-    <div class="card">
-        <h2>Portfólio Online</h2>
+                <a href="https://joao-pmfm.github.io/PortfolioHUB/" target="_blank">
+                    PortfolioHUB
+                </a>
 
-        <a href="https://sites.google.com/view/portifolio-jpmf/in%C3%ADcio">
-            Acessar meu portfólio
-        </a>
-    </div>
+                <a href="https://sites.google.com/view/portifolio-jpmf/in%C3%ADcio" target="_blank">
+                    Google Sites
+                </a>
+
+                <a href="https://github.com/Joao-pmfm/PortfolioHUB" target="_blank">
+                    GitHub
+                </a>
+
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+        <section class="card">
+            <h2>Sobre mim</h2>
+
+            <p>
+                Sou estudante de Ciência da Computação no Centro Universitário de Brasília,
+                com interesse em desenvolvimento de software e cibersegurança.
+                Tenho experiência com lógica de programação, construção de algoritmos,
+                resolução de problemas e trabalho em equipe.
+            </p>
+        </section>
+
+        <section class="card">
+
+            <h2>Projetos Acadêmicos</h2>
+
+            <div class="projects">
+
+                <div class="project">
+                    <h3>Simulador de Gerenciamento de Hotel</h3>
+
+                    <p>
+                        Projeto desenvolvido para aplicar lógica computacional,
+                        regras de negócio e organização de sistemas.
+                    </p>
+                </div>
+
+                <div class="project">
+                    <h3>DER - Sistema Hospitalar</h3>
+
+                    <p>
+                        Modelagem de banco de dados com entidades,
+                        relacionamentos, atributos e cardinalidades.
+                    </p>
+                </div>
+
+                <div class="project">
+                    <h3>DER - Seguradora</h3>
+
+                    <p>
+                        Modelo Entidade-Relacionamento para uma companhia
+                        de seguros de automóveis.
+                    </p>
+                </div>
+
+            </div>
+
+        </section>
+
+        <section class="card">
+
+            <h2>Habilidades</h2>
+
+            <ul class="skills">
+                <li>Lógica de programação</li>
+                <li>Construção de algoritmos</li>
+                <li>Análise e resolução de problemas</li>
+                <li>Trabalho em equipe</li>
+                <li>Liderança</li>
+                <li>Organização</li>
+                <li>Cibersegurança</li>
+            </ul>
+
+        </section>
+
+        <section class="card">
+
+            <h2>Formação</h2>
+
+            <p>
+                <strong>Centro Universitário de Brasília</strong>
+                — Ciência da Computação
+            </p>
+
+            <p>
+                <strong>Colégio Militar de Brasília</strong>
+                — Ensino Médio
+            </p>
+
+            <p>
+                <strong>Cisco Networking Academy</strong>
+                — Introdução à Cibersegurança
+            </p>
+
+        </section>
+
+        <section class="card">
+
+            <h2>Contato</h2>
+
+            <p>
+                Email:
+                <a href="mailto:jpmfm.1000@gmail.com">
+                    jpmfm.1000@gmail.com
+                </a>
+            </p>
+
+            <p>
+                Localização: Brasília/DF - Brasil
+            </p>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 João Pedro - PortfolioHUB</p>
+    </footer>
 
 </body>
 </html>
