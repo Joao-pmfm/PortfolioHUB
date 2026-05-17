@@ -1,0 +1,27 @@
+# Projetos Pessoais
+
+Esta pasta reúne projetos desenvolvidos por interesse pessoal, prática de desenvolvimento e organização de ideias relacionadas à tecnologia e criatividade.
+
+## Objetivo
+
+Desenvolver habilidades práticas através da criação de projetos independentes, aplicando conceitos de desenvolvimento web, organização de projetos e documentação.
+
+## Conteúdo
+
+### Portfólio Web
+Projeto desenvolvido para apresentação de informações profissionais, projetos acadêmicos e habilidades técnicas em um ambiente digital.
+
+### Projetos Criativos
+Espaço destinado a projetos relacionados a ideias pessoais, organização de campanhas, ferramentas e experimentos digitais.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Autor
+
+João Pedro

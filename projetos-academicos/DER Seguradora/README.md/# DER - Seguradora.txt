@@ -6,21 +6,25 @@ Projeto acadêmico de modelagem de banco de dados para uma companhia de seguros 
 
 ## Objetivo
 
-Identificar entidades, atributos, relacionamentos, cardinalidades e identificadores.
+Modelar entidades, relacionamentos, atributos e cardinalidades para o sistema da seguradora.
 
 ## Conteúdo
 
-- Modelo Entidade-Relacionamento
-- Entidades
-- Atributos
-- Cardinalidades
+- Clientes
+- Veículos
+- Acidentes
 - Relacionamentos
+- Cardinalidades
 
-## Ferramentas utilizadas
+## Ferramentas Utilizadas
 
 - Draw.io
 - MySQL Workbench
 - GitHub
+
+## Prévia do Projeto
+
+![DER Seguradora](der-seguradora.png)
 
 ## Autor
 
