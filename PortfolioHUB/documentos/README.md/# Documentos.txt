@@ -1,0 +1,3 @@
+# Documentos
+
+Esta pasta será utilizada para armazenar documentações, relatórios e arquivos complementares relacionados aos projetos do repositório.
