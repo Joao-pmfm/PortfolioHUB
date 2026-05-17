@@ -1,0 +1,40 @@
+# PortfolioHUB
+
+Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos durante minha trajetória na área de Tecnologia da Informação.
+
+## Sobre mim
+
+Sou João Pedro, estudante da área de TI, com interesse em desenvolvimento, banco de dados, segurança da informação e criação de projetos digitais.
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
+- GitHub
+
+## Estrutura do repositório
+
+- `projetos-academicos/`: trabalhos e atividades desenvolvidas na faculdade.
+- `projetos-pessoais/`: projetos criados por interesse próprio.
+- `slides/`: apresentações utilizadas nos projetos.
+- `documentos/`: arquivos de apoio e documentação.
+- `assets/`: imagens utilizadas no repositório.
+
+## Projetos principais
+
+### DER - Seguradora
+Modelagem de banco de dados para uma companhia de seguros de automóveis.
+
+### DER - Sistema Hospitalar
+Modelagem de banco de dados para um ambiente hospitalar.
+
+### Portfólio Web
+Página pessoal criada para apresentar meus projetos.
+
+## GitHub Pages
+
+Link do portfólio online:  
+https://sites.google.com/view/portifolio-jpmfm/in%C3%ADcio
