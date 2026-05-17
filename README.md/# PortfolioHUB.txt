@@ -30,8 +30,6 @@ Apresentações, documentos e materiais complementares.
 
 - DER - Seguradora
 - DER - Sistema Hospitalar
-- Segurança da Informação - ACE
-- Ferramentas para RPG
 - Portfólio Web
 
 ## GitHub Pages
