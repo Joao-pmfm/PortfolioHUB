@@ -1,3 +1,0 @@
-# Assets
-
-Esta pasta será utilizada para armazenar imagens, banners, ícones e arquivos visuais relacionados aos projetos do repositório.
